@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&family=Yellowtail&display=swap');
+
+html{ background-image:url("https://www.losangeles.fr/f/estados-unidos/los-angeles/guia/los-angeles-m.jpg");
+     background-size: cover;
+    }
+      
+
+.snp{ 
+     font-family:'Yellowtail';
+     text-decoration: none;
+     color: rgb(0, 0, 0);
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     top:0;
+     margin: 20px 80px;
+    }
+
+body{margin: 0;
+    padding: 0;
+     }
+
+
+
+#none{ color: black;
+text-decoration: none;
+font-size: 30px;}
+
+#title{font-family: 'satisfy';
+    font-size: 30px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    
+}
+
+#para1{font-family: 'DM Serif Display', serif;
+    
+    font-size: 30px;
+color: black;
+background-color: white;
+    opacity: 0.6;
+}
+
+#Source{color:white;
+font-size:20px ;
+}
+
+#image_album{overflow:hidden;
+float:left;
+margin: 10px;
+
+
+}
+
+p{font-family:'DM Serif Display', serif;
+font-size: 23px;
+    color:black ;
+    
+    }
+
+#p1{font-family:'satisfy';
+font-size: 30px;}
+
+.album1{overflow:hidden;
+    float:left;
+    margin-right: 10px;
+    background-color: white;
+    opacity: 0.6;
+    
+}
+
+#Source-wiki{color:black;
+    font-size:20px ;
+text-align: center;}
+
+.album2{overflow:hidden;
+    float:left;
+    margin-right: 10px;
+    background-color: white;
+    opacity: 0.6;}
+
+#txtvideo{color:white;
+text-decoration: underline;}
+
